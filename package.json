@@ -1,10 +1,14 @@
 {
   "name": "ews",
   "version": "1.0.0",
+  "engines": {
+    "node": "9.2.1",
+    "npm": "3.9.0"
+  },
+  "engineStrict": true,
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
